@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='file:///private/var/folders/7x/gyq3w8mn0jn6pbrz3prtph4h0000gn/T/9a9b7713d173ce7f3af586c7bf078c26/Kapture%202026-09-23%20at%2000.12.14.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Kapture 2026-09-23 at 00.12.14.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
